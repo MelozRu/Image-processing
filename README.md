@@ -1,4 +1,4 @@
 # Лабораторная работа №1. Поиск повреждённой части листа.
 # Подовинников Артём 381908-2
-#Отчёт
-#https://disk.yandex.ru/i/RvX8FJjWvg0raw
+# Отчёт
+# https://disk.yandex.ru/i/RvX8FJjWvg0raw
